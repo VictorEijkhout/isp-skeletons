@@ -4,7 +4,7 @@
  **** Introduction to Scientific Programming in C++/Fortran2003
  **** copyright 2016-2021 Victor Eijkhout eijkhout@tacc.utexas.edu
  ****
- **** newton1.cxx : newton scalar example
+ **** newton.cxx : newton scalar example
  ****
  ****************************************************************/
 

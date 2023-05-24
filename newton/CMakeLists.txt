@@ -1,0 +1,7 @@
+cmake_minimum_required( VERSION 3.20 )
+project( newton VERSION 1.0 )
+
+add_executable( newton newton.cxx )
+target_compile_features( newton PRIVATE cxx_std_17 )
+install( TARGETS newton DESTINATION . )
+
